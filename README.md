@@ -21,8 +21,8 @@ For the sake of simplicity, i'll be using JavaScript.
 | 05  | [**🛷 Santa's Cybertruck**](https://adventjs.dev/en/challenges/2023/5) |     🟠     | [05](./src/challenges/05.js) |
 | 06  | [**🦌 The reindeer on trial**](https://adventjs.dev/en/challenges/2023/6) |     🟢     | [06](./src/challenges/06.js) |
 | 07  | [**📦 The 3D Boxes**](https://adventjs.dev/en/challenges/2023/7) |     🟢     | [07](./src/challenges/07.js) |
-| 08  | [**🏬 Sorting the warehouse**](https://adventjs.dev/en/challenges/2023/8) |     🟠     | [08](./src/challenges/09.js) |
-| 09  | [**🚦 Switch the lights**](https://adventjs.dev/en/challenges/2023/9) |     🟢     | [09](./src/challenges/08.js) |
+| 08  | [**🏬 Sorting the warehouse**](https://adventjs.dev/en/challenges/2023/8) |     🟠     | [08](./src/challenges/08.js) |
+| 09  | [**🚦 Switch the lights**](https://adventjs.dev/en/challenges/2023/9) |     🟢     | [09](./src/challenges/09.js) |
 | 10  | [**🎄 Create your own Christmas tree**](https://adventjs.dev/en/challenges/2023/10) |     🟢     | [10](./src/challenges/10.js) |
 
 
