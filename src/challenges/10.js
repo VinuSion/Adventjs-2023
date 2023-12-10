@@ -1,4 +1,4 @@
-function createChristmasTree(ornaments, height) {
+export function createChristmasTree(ornaments, height) {
   if (height === 0) return "|";
 
   let tree = "";
