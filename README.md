@@ -40,3 +40,4 @@ To execute any test of a given challenge, just open up a new terminal and head t
 ```
 npm run test
 ```
+![test_example](https://github.com/VinuSion/Adventjs-2023/assets/56313573/d1516a30-dabf-4e2d-a7a4-20a47fa62671)
