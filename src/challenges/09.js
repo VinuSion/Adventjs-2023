@@ -15,7 +15,6 @@ export function adjustLights(lights) {
   return (x + 2 * o2 - ((x + (x >> 31)) ^ (x >> 31))) / 2;
 }
 
-
 //---------------------OLD SOLUTION----------------------
 // function adjustLights(lights) {
 //   if (lights.length <= 1) return 0;

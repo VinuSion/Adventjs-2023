@@ -1,12 +1,12 @@
 # Advent JS - 2023 🎄
 
 [AdventJS](https://adventjs.dev/) is an event made by
-[@midudev](https://midu.dev/). During the 24 days of December right before Christmas Eve, there will be javascript challenges being posted on the website:
+[@midudev](https://midu.dev/). During the 24 days of December right before Christmas Eve, there will be javascript challenges being posted on this website:
 
 - https://adventjs.dev/
 
 The challenges can be written in JavaScript or Typescript.
-For the sake of simplicity, i'll be using JavaScript.
+For the sake of simplicity, i'll be using JavaScript throughout the entire challenge.
 
 ## Challenges 🎅
 
@@ -24,6 +24,7 @@ For the sake of simplicity, i'll be using JavaScript.
 | 08  | [**🏬 Sorting the warehouse**](https://adventjs.dev/en/challenges/2023/8) |     🟠     | [08](./src/challenges/08.js) |
 | 09  | [**🚦 Switch the lights**](https://adventjs.dev/en/challenges/2023/9) |     🟢     | [09](./src/challenges/09.js) |
 | 10  | [**🎄 Create your own Christmas tree**](https://adventjs.dev/en/challenges/2023/10) |     🟢     | [10](./src/challenges/10.js) |
+| 11  | [**📖 The studious elves**](https://adventjs.dev/en/challenges/2023/11) |     🟠     | [11](./src/challenges/11.js) |
 
 
 ## Tools used 🛠️
@@ -35,9 +36,14 @@ For the sake of simplicity, i'll be using JavaScript.
 
 ## Individual Tests 🧪
 
-To execute any test of a given challenge, just open up a new terminal and head to the test file itself, ej: 01.test.js:
+To execute the tests of any given challenge, just open up a new terminal and head to the test file itself, ej: 01.test.js:
 
 ```
-npm run test
+npm run test 01.test.js 
 ```
-![test_example](https://github.com/VinuSion/Adventjs-2023/assets/56313573/d1516a30-dabf-4e2d-a7a4-20a47fa62671)
+>The tests that are in each file are the same ones you'll find in adventjs, the only exception being the secret tests which are hidden to make sure the solution passes all edge cases.
+
+![test_example](https://github.com/VinuSion/Adventjs-2023/assets/56313573/464f1a90-0516-4a25-bdc4-61a8a59a890f)
+
+
+**Make sure to star this repository if you found it useful!** 😉
