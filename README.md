@@ -42,7 +42,8 @@ To execute the tests of any given challenge, just open up a new terminal and hea
 ```
 npm run test 01.test.js 
 ```
->The tests that are in each file are the same ones you'll find in adventjs, the only exception being the secret tests which are hidden to make sure the solution passes all edge cases.
+> [!IMPORTANT]
+> The tests that are in each file are the same ones you'll find in adventjs, the only exception being the secret tests which are hidden to make sure the solution passes all edge cases.
 
 ![test_example](https://github.com/VinuSion/Adventjs-2023/assets/56313573/464f1a90-0516-4a25-bdc4-61a8a59a890f)
 
