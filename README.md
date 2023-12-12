@@ -1,12 +1,12 @@
 # Advent JS - 2023 🎄
 
 [AdventJS](https://adventjs.dev/) is an event made by
-[@midudev](https://midu.dev/). During the 24 days of December right before Christmas Eve, there will be javascript challenges being posted on this website:
+[@midudev](https://midu.dev/). During the 24 days of December right before Christmas Eve, each day javascript challenges will be posted on this website:
 
 - https://adventjs.dev/
 
 The challenges can be written in JavaScript or Typescript.
-For the sake of simplicity, i'll be using JavaScript throughout the entire challenge.
+For the sake of simplicity, i will be using JavaScript throughout the entire challenge as it unfolds. 
 
 ## Challenges 🎅
 
@@ -25,6 +25,7 @@ For the sake of simplicity, i'll be using JavaScript throughout the entire chall
 | 09  | [**🚦 Switch the lights**](https://adventjs.dev/en/challenges/2023/9) |     🟢     | [09](./src/challenges/09.js) |
 | 10  | [**🎄 Create your own Christmas tree**](https://adventjs.dev/en/challenges/2023/10) |     🟢     | [10](./src/challenges/10.js) |
 | 11  | [**📖 The studious elves**](https://adventjs.dev/en/challenges/2023/11) |     🟠     | [11](./src/challenges/11.js) |
+| 12  | [**📸 Is it a valid copy?**](https://adventjs.dev/en/challenges/2023/12) |     🟠     | [12](./src/challenges/12.js) |
 
 
 ## Tools used 🛠️
