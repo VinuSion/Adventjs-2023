@@ -27,6 +27,8 @@ For the sake of simplicity, i will be using JavaScript throughout the entire cha
 | 11  | [**📖 The studious elves**](https://adventjs.dev/en/challenges/2023/11) |     🟠     | [11](./src/challenges/11.js) |
 | 12  | [**📸 Is it a valid copy?**](https://adventjs.dev/en/challenges/2023/12) |     🟠     | [12](./src/challenges/12.js) |
 | 13  | [**⌚ Calculating the time**](https://adventjs.dev/en/challenges/2023/13) |     🟢     | [13](./src/challenges/13.js) |
+| 14  | [**🚨 Avoid the alarm**](https://adventjs.dev/en/challenges/2023/14) |     🟠     | [14](./src/challenges/14.js) |
+
 
 
 ## Tools used 🛠️
