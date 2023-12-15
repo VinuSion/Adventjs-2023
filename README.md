@@ -28,6 +28,7 @@ For the sake of simplicity, i will be using JavaScript throughout the entire cha
 | 12  | [**📸 Is it a valid copy?**](https://adventjs.dev/en/challenges/2023/12) |     🟠     | [12](./src/challenges/12.js) |
 | 13  | [**⌚ Calculating the time**](https://adventjs.dev/en/challenges/2023/13) |     🟢     | [13](./src/challenges/13.js) |
 | 14  | [**🚨 Avoid the alarm**](https://adventjs.dev/en/challenges/2023/14) |     🟠     | [14](./src/challenges/14.js) |
+| 15  | [**↔️ Autonomous robot**](https://adventjs.dev/en/challenges/2023/15) |     🟠     | [15](./src/challenges/15.js) |
 
 
 
