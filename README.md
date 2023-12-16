@@ -29,6 +29,7 @@ For the sake of simplicity, i will be using JavaScript throughout the entire cha
 | 13  | [**⌚ Calculating the time**](https://adventjs.dev/en/challenges/2023/13) |     🟢     | [13](./src/challenges/13.js) |
 | 14  | [**🚨 Avoid the alarm**](https://adventjs.dev/en/challenges/2023/14) |     🟠     | [14](./src/challenges/14.js) |
 | 15  | [**↔️ Autonomous robot**](https://adventjs.dev/en/challenges/2023/15) |     🟠     | [15](./src/challenges/15.js) |
+| 16  | [**❌ Friday deployment**](https://adventjs.dev/en/challenges/2023/16) |     🟢     | [16](./src/challenges/16.js) |
 
 
 
