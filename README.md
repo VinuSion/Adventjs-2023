@@ -30,6 +30,7 @@ For the sake of simplicity, i will be using JavaScript throughout the entire cha
 | 14  | [**🚨 Avoid the alarm**](https://adventjs.dev/en/challenges/2023/14) |     🟠     | [14](./src/challenges/14.js) |
 | 15  | [**↔️ Autonomous robot**](https://adventjs.dev/en/challenges/2023/15) |     🟠     | [15](./src/challenges/15.js) |
 | 16  | [**❌ Friday deployment**](https://adventjs.dev/en/challenges/2023/16) |     🟢     | [16](./src/challenges/16.js) |
+| 17  | [**🛷 Optomizing the rental**](https://adventjs.dev/en/challenges/2023/17) |     🟢     | [17](./src/challenges/17.js) |
 
 
 
