@@ -32,6 +32,7 @@ For the sake of simplicity, i will be using JavaScript throughout the entire cha
 | 16  | [**❌ Friday deployment**](https://adventjs.dev/en/challenges/2023/16) |     🟢     | [16](./src/challenges/16.js) |
 | 17  | [**🛷 Optomizing the rental**](https://adventjs.dev/en/challenges/2023/17) |     🟢     | [17](./src/challenges/17.js) |
 | 18  | [**🔢 The digital clock**](https://adventjs.dev/en/challenges/2023/18) |     🔴     | [18](./src/challenges/18.js) |
+| 19  | [**💣 Face the sabotage**](https://adventjs.dev/en/challenges/2023/19) |     🟠     | [19](./src/challenges/19.js) |
 
 
 
