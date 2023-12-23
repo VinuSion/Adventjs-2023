@@ -36,6 +36,7 @@ For the sake of simplicity, i will be using JavaScript throughout the entire cha
 | 20  | [**🏋️‍♂️ Distribute the weight**](https://adventjs.dev/en/challenges/2023/20) |     🔴     | [20](./src/challenges/20.js) |
 | 21  | [**🪐 Binary message**](https://adventjs.dev/en/challenges/2023/21) |     🟠     | [21](./src/challenges/21.js) |
 | 22  | [**🚂 Programming language**](https://adventjs.dev/en/challenges/2023/22) |     🟢     | [22](./src/challenges/22.js) |
+| 23  | [**🍽️ Christmas dinner**](https://adventjs.dev/en/challenges/2023/23) |     🟢     | [23](./src/challenges/23.js) |
 
 
 
