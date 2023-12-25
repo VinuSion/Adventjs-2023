@@ -1,7 +1,7 @@
 # Advent JS - 2023 🎄
 
 [AdventJS](https://adventjs.dev/) is an event made by
-[@midudev](https://midu.dev/). During the 24 days of December right before Christmas Eve, each day javascript challenges will be posted on this website:
+[@midudev](https://midu.dev/). During the 25 days of December ending exactly on Christmas Eve, each day javascript challenges will be posted on this website:
 
 - https://adventjs.dev/
 
@@ -38,7 +38,7 @@ For the sake of simplicity, i will be using JavaScript throughout the entire cha
 | 22  | [**🚂 Programming language**](https://adventjs.dev/en/challenges/2023/22) |     🟢     | [22](./src/challenges/22.js) |
 | 23  | [**🍽️ Christmas dinner**](https://adventjs.dev/en/challenges/2023/23) |     🟢     | [23](./src/challenges/23.js) |
 | 24  | [**🪜 Jump on the stairs**](https://adventjs.dev/en/challenges/2023/24) |     🟠     | [24](./src/challenges/24.js) |
-
+| 25  | [**🗺️ Calculating distances**](https://adventjs.dev/en/challenges/2023/25) |     🟠     | [25](./src/challenges/25.js) |
 
 
 
